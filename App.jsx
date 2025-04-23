@@ -5,26 +5,25 @@ function App() {
     <div className="container">
       <header className="header">
         <h1>RuppeeCoin</h1>
-        <p>Empowering SME IPOs Across India</p>
+        <p>Empowering India's SME IPO journey.</p>
       </header>
-      <section className="section about">
-        <h2>About Us</h2>
-        <p>RuppeeCoin helps small and medium-sized businesses access growth capital through SME IPOs, enhancing visibility and creating promoter wealth.</p>
+      <section className="about">
+        <h2>About</h2>
+        <p>We help small businesses raise growth capital via SME IPOs. Backed by experienced merchant bankers.</p>
       </section>
-      <section className="section benefits">
-        <h2>Benefits of SME IPO</h2>
+      <section className="benefits">
+        <h2>Why SME IPO?</h2>
         <ul>
-          <li>✔ Access to growth capital without debt</li>
-          <li>✔ Enhanced brand visibility & credibility</li>
-          <li>✔ Unlock valuation and liquidity</li>
-          <li>✔ Tax-efficient wealth creation for promoters</li>
-          <li>✔ Regulatory requirement for certain scale-ups</li>
+          <li>✔ Growth capital without debt</li>
+          <li>✔ Brand visibility & credibility</li>
+          <li>✔ Liquidity & valuation</li>
+          <li>✔ Tax-efficient wealth creation</li>
+          <li>✔ Mandatory for scale-ups in some thresholds</li>
         </ul>
       </section>
-      <section className="section contact">
+      <section className="contact">
         <h2>Contact Us</h2>
         <p>Email: info@ruppeecoin.in</p>
-        <p>Phone: +91-98765-43210</p>
       </section>
     </div>
   );
